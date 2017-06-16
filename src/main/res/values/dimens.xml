@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardHeight">164dp</dimen>
+    <dimen name="cardMargin">5dp</dimen>
+    <dimen name="cardTextPadding">4dp</dimen>
+    <dimen name="cardTextSize">18sp</dimen>
+    <dimen name="cardRadius">5dp</dimen>
+</resources>
